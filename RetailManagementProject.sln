@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMP_DataManager", "RMP_Data
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RMP_Data", "RMP_Data\RMP_Data.sqlproj", "{BCA2C28C-E793-4432-A811-A5977A4C43E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMP_WPF-UI", "RMP_WPF-UI\RMP_WPF-UI.csproj", "{55A24C10-4162-4E22-A8C2-33C9A6D78D03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{BCA2C28C-E793-4432-A811-A5977A4C43E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCA2C28C-E793-4432-A811-A5977A4C43E6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BCA2C28C-E793-4432-A811-A5977A4C43E6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{55A24C10-4162-4E22-A8C2-33C9A6D78D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A24C10-4162-4E22-A8C2-33C9A6D78D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A24C10-4162-4E22-A8C2-33C9A6D78D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A24C10-4162-4E22-A8C2-33C9A6D78D03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
